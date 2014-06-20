@@ -1,4 +1,4 @@
-## Analyses of the IT act
+## Analysis of the IT act
 
 ## Center for Internet Society
 * [Constitutional Analysis of intermediaries guidelines Rules](http://cis-india.org/internet-governance/constitutional-analysis-of-intermediaries-guidelines-rules)

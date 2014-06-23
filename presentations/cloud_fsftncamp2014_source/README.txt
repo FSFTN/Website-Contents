@@ -1,0 +1,2 @@
+- Use pdfunite command to unite generated PDF into a single presentation
+- Install Linux Libertine and Linux Biolinum fonts 

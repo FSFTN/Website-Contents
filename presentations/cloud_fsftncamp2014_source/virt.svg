@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="992.12598"
+   height="744.09448"
+   id="svg3488"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="virt.svg">
+  <defs
+     id="defs3490" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2484974"
+     inkscape:cx="496.06299"
+     inkscape:cy="404.08576"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1024"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3493">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(570.34871,485.39935)">
+    <rect
+       style="fill:#e3e2db;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="992.12598"
+       height="744.09448"
+       x="-570.34869"
+       y="-485.39935" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2989"
+       d="m 375.21431,226.64791 -899.00005,0"
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-470.48688"
+       y="-382.30487"
+       id="text3791"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3793"
+         x="-470.48688"
+         y="-382.30487">VIRTUALIZATION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-465.34869"
+       y="-315.30484"
+       id="text3799"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-465.34869"
+         y="-315.30484"
+         id="tspan3803">☑ Many-scale deployment suddenly easier</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-465.34869"
+       y="-250.96527"
+       id="text3807"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3809"
+         x="-465.34869"
+         y="-250.96527">☑ API based access - LibVirt</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3440"
+       y="-186.62569"
+       x="-465.34869"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="-186.62569"
+         x="-465.34869"
+         id="tspan3442"
+         sodipodi:role="line">☑ Better utilization of hardware</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-465.34869"
+       y="-122.28612"
+       id="text3444"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3446"
+         x="-465.34869"
+         y="-122.28612">☑ Better Maintenance &amp; Provisioning</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3456"
+       y="20.96529"
+       x="-465.34869"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="20.96529"
+         x="-465.34869"
+         id="tspan3458"
+         sodipodi:role="line">☒ Still doesn't scale enough</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-465.34869"
+       y="85.304855"
+       id="text3460"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3462"
+         x="-465.34869"
+         y="85.304855">☒ Backup, DR &amp; BC still tricky</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3642"
+       y="-49.104324"
+       x="-470.48688"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="-49.104324"
+         x="-470.48688"
+         id="tspan3644"
+         sodipodi:role="line">But..</tspan></text>
+  </g>
+</svg>

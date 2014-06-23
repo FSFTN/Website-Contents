@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="992.12598"
+   height="744.09448"
+   id="svg4948"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="issues.svg">
+  <defs
+     id="defs4950" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2484974"
+     inkscape:cx="496.06299"
+     inkscape:cy="436.12427"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-3"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1024"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4953">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(773.20585,-91.743509)">
+    <g
+       transform="translate(-288.57142,468.57142)"
+       id="layer1-3"
+       inkscape:label="Layer 1">
+      <rect
+         y="-376.82791"
+         x="-484.63443"
+         height="744.09448"
+         width="992.12598"
+         id="rect2985"
+         style="fill:#e3e2db;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 460.92853,335.21935 -899.00005,0"
+         id="path2989"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3791"
+         y="-273.73343"
+         x="-384.77267"
+         style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="-273.73343"
+           x="-384.77267"
+           id="tspan3793"
+           sodipodi:role="line">Issues with Cloud</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3799"
+         y="-186.73343"
+         x="-379.63449"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
+         xml:space="preserve"><tspan
+           id="tspan3803"
+           y="-186.73343"
+           x="-379.63449"
+           sodipodi:role="line">☠ Vendor Lock-In &amp; Interoperability</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3807"
+         y="-120.15665"
+         x="-379.63449"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
+         xml:space="preserve"><tspan
+           y="-120.15665"
+           x="-379.63449"
+           id="tspan3809"
+           sodipodi:role="line">☠ Privacy concerns</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
+         x="-379.63449"
+         y="-53.579865"
+         id="text3440"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="-379.63449"
+           y="-53.579865"
+           id="tspan3502">☠ Data Ownership</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3444"
+         y="7.5691824"
+         x="-379.63449"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
+         xml:space="preserve"><tspan
+           y="7.5691824"
+           x="-379.63449"
+           id="tspan3446"
+           sodipodi:role="line">☠ Non-Compliance to standards</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
+         x="-379.63449"
+         y="140.72276"
+         id="text3456"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3458"
+           x="-379.63449"
+           y="140.72276">☠ Cloud Monopoly</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3460"
+         y="207.29955"
+         x="-379.63449"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
+         xml:space="preserve"><tspan
+           y="207.29955"
+           x="-379.63449"
+           id="tspan3462"
+           sodipodi:role="line">☠ Government usage of public cloud</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3803"
+         y="74.145981"
+         x="-379.63449"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Libertine;-inkscape-font-specification:Linux Libertine"
+         xml:space="preserve"><tspan
+           y="74.145981"
+           x="-379.63449"
+           id="tspan3805"
+           sodipodi:role="line">☠ Data and Network security risks</tspan></text>
+    </g>
+  </g>
+</svg>

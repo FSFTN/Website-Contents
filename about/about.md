@@ -1,14 +1,16 @@
 # Free Software Foundation Tamilnadu
 
-Free Software Foundation Tamil Nadu (FSFTN), part of Free Software Movement of India (FSMI), is a social movement which has pledged to enlighten common man with the essence of Free Software and join hands together against the proprietary software which restricts freedom of knowledge to the common man.
+Free Software Foundation Tamil Nadu (FSFTN), part of Free Software Movement of India (FSMI), is a social movement which has pledged to enlighten common man with the essence of Free Software, Knowledge Commons and join hands together against the Privatization and Centralized Control of Knowledge flow.
 
-FSFTN was founded in 2008\. It is a nonprofit organization with a mission to promote computer user freedom and to defend the rights of all free software users.
+FSFTN was founded in the year 2008\. It is a nonprofit organization with a mission to promote computer user's freedom, bring access of Knowledge to common man, utilize Digital commons and to defend the rights of all free software users.
+
+FSFTN can be structured as an organisation that spread awareness in the fields of Free Software, [Digital Commons](https://en.wikipedia.org/wiki/Digital_commons_(economics)), [Open Access](https://en.wikipedia.org/wiki/Open_access), Internet Survillence, etc.
 
 ## Objectives
 
 Our main objectives are,
 
-- To take forward free software and its ideological implications to all corners of our country from the developed domains to the underprivileged.
+- To take forward Free Software and its ideological implications to all corners of our country from the developed domains to the underprivileged.
 - To create awareness among computer users in the use of free software.
 - To work towards usage of free software in all streams of sciences and research.
 - To take forward implementation and usage of free software in school education, academics and higher education.
@@ -16,9 +18,11 @@ Our main objectives are,
 - To work among developers on solutions catering to societal & national requirements.
 - To work towards a policy change favouring free software in all walks of life.
 
-FSFTN was instrumental in the campaign against Tamil Nadu government's decision to include proprietary software in the free laptops which were to be distributed to students of Tamil Nadu. FSFTN also runs a Community Computing Center in Mylapore where the unprivileged students can walk in and learn what they need from the skillful volunteers.
+There are many other communities and GLUGs that stands for Free Software, Commons Utilization, Free Culture, Open Hardware and Open Access. These communities come together as a federation which turns out to be the sowing seeds for Free Culture in the future.
 
-The most important support you can give to free software is to use free software on your own computer and advocate within your business or community for others to adopt it. Join our mailing-list to hear about ways you can get involved and to post your queries and suggestions.
+We encourage the use of Free Software for Education, Science, Social aspects. The most important support you can give to free software is to use free software on your own computer and advocate within your business or community for others to adopt it. Join our mailing-list or our Discussion Forum to hear about ways you can get involved and to post your queries and suggestions.
+
+We would always love to expand our activities and welcome new members to our organisation to join the mission along with us.
 
 ## Disclaimer
 

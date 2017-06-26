@@ -22,7 +22,7 @@ Our main objectives are,
 - To raise adequate funds by way of subscription, donations, etc. to carry out on its own accounts or jointly with individuals or institutions to realise the aforesaid objectives of the Association and such other objectives as amended altered or added to from time to time.
 - To do all or any of the above things and all such other things as are incidental or may be thought conducive to the attainment of the above objects or any of them.
 
-### To Satisfy these objectives, we engage ourselves in these activities :-
+#### To Satisfy these objectives, we engage ourselves in these activities :-
 
 - Conduct workshops, seminars, tours on Free Software for the benefit of the public in general without any discrimination on the basis of caste, religion or gender.
 - Establish GNU/Linux Users Groups, Information Exchange Centre, Reading Room and Library of books, Digital Library and circulate periodicals and other literature on the field of software.
@@ -35,7 +35,7 @@ We encourage the use of Free Software for Education, Science, Social aspects. Th
 
 We would always love to expand our activities and welcome new members to our organization to join the mission along with us.
 
-FSFTN has been registeres under the **Tamilnadu Societies Registration Act, 1975** (Tamilnadu Act27 of 1975) in the year 2014.
+FSFTN has been registered under the **Tamilnadu Societies Registration Act, 1975** (Tamilnadu Act27 of 1975) in the year 2014.
 
 ## Disclaimer
 

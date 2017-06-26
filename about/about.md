@@ -33,7 +33,7 @@ There are many other communities and GLUGs that stands for Free Software, Common
 
 We encourage the use of Free Software for Education, Science, Social aspects. The most important support you can give to free software is to use free software on your own computer and advocate within your business or community for others to adopt it. Join our mailing-list or our Discussion Forum to hear about ways you can get involved and to post your queries and suggestions.
 
-We would always love to expand our activities and welcome new members to our organisation to join the mission along with us.
+We would always love to expand our activities and welcome new members to our organization to join the mission along with us.
 
 FSFTN has been registeres under the **Tamilnadu Societies Registration Act, 1975** (Tamilnadu Act27 of 1975) in the year 2014.
 

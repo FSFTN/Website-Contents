@@ -35,7 +35,7 @@ We encourage the use of Free Software for Education, Science, Social aspects. Th
 
 We would always love to expand our activities and welcome new members to our organization to join the mission along with us.
 
-FSFTN has been registered under the **Tamilnadu Societies Registration Act, 1975** (Tamilnadu Act27 of 1975) in the year 2014.
+FSFTN has been registered under the **Tamilnadu Societies Registration Act, 1975** (Tamilnadu Act 27 of 1975) in the year 2014.
 
 ## Disclaimer
 

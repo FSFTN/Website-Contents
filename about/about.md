@@ -22,7 +22,7 @@ Our main objectives are,
 - To raise adequate funds by way of subscription, donations, etc. to carry out on its own accounts or jointly with individuals or institutions to realize the aforesaid objectives of the Association and such other objectives as amended altered or added to from time to time.
 - To do all or any of the above things and all such other things as are incidental or may be thought conducive to the attainment of the above objects or any of them.
 
-### To Satisfy these objectives, we engage ourselves in these activities :-
+#### To Satisfy these objectives, we engage ourselves in these activities :-
 
 - Conduct workshops, seminars, tours on Free Software for the benefit of the public in general without any discrimination on the basis of caste, religion or gender.
 - Establish GNU/Linux Users Groups, Information Exchange Center, Reading Room and Library of books, Digital Library and circulate periodicals and other literature on the field of Software.

@@ -4,7 +4,7 @@ Free Software Foundation Tamil Nadu (FSFTN), part of Free Software Movement of I
 
 FSFTN was founded in the year 2008\. It is a nonprofit organization with a mission to promote computer user's freedom, bring access of Knowledge to common man, utilize Digital commons and to defend the rights of all Free Software users.
 
-FSFTN can be structured as an organization that spread awareness in the fields of Free Software, [Digital Commons](https://en.wikipedia.org/wiki/Digital_commons_(economics)), [Open Access](https://en.wikipedia.org/wiki/Open_access), Internet Surveillance, etc.
+FSFTN can be structured as an organization that spread awareness in the fields of Free Software, [Knowledge Commons](https://en.wikipedia.org/wiki/Knowledge_commons), [Open Access](https://en.wikipedia.org/wiki/Open_access), Internet Surveillance, Knowledge Freedom, etc.
 
 ## Objectives
 

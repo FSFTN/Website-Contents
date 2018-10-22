@@ -1,4 +1,4 @@
-## Analyses of the IT act
+# Analyses of the IT act
 
 ## Center for Internet Society
 * [Constitutional Analysis of intermediaries guidelines Rules](http://cis-india.org/internet-governance/constitutional-analysis-of-intermediaries-guidelines-rules)
@@ -13,4 +13,3 @@
 
 ## Print Media
 * The Hindu - [Debate on Section 66A rages on](http://www.thehindu.com/sci-tech/technology/internet/debate-on-section-66a-rages-on/article4181938.ece)
-* ..
